@@ -1,0 +1,13 @@
+@media (min-width: 700px) and (max-width: 1024px) {
+    .card {
+      grid-template-columns: repeat(4, 1fr);
+    }
+    .main-header-logo {
+      width: 12%;
+      height: 9%;
+    }
+    .container-title {
+      align-self: center;
+    }
+  }
+  
